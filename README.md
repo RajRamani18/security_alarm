@@ -16,7 +16,7 @@ Block diagram and state diagram for security system with Mealy FSM.
           |-------------------|
 
 
-  ![Mealy state machine of alarm](RajRamani18.github.com/repository/security_alarm/alarm_mealy.png)
+  ![Mealy machine of alarm](alarm_mealy.png)
   
   The signals above can be described as follows:
     - keypad[3:0] - 4-bit input used to `arm (0011)` or `disarm(1100)` the security system.
@@ -33,4 +33,4 @@ Block diagram and state diagram for security system with Mealy FSM.
 
 Here's the simulation result for the given `alarm.v` tested using `alarm_tb.v`.
 
-![simulation result](RajRamani18.github.com/repository/security_alarm/alarm_tb_sim.png)
+![simulation result](alarm_tb_sim.png)
