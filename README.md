@@ -1,4 +1,4 @@
-# security_alarm
+# Security alarm using Mealy machine
 This repository implements security alarm using Mealy machine.
 
 Block diagram and state diagram for security system with Mealy FSM.
